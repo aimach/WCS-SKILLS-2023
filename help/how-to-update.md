@@ -2,6 +2,8 @@
 
 > Au fur et à mesure de la formation de nouvelles compétences seront ajoutées au dépôt d'origine. Les commandes suivantes te permettront de mettre à jour ton dépôt tout en gardant tes modifictations
 
+https://www.markdownguide.org/
+
 1. Configurer le remote
 
 [source](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork)

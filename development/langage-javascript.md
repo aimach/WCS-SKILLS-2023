@@ -13,27 +13,29 @@
 
 ## 💻 Je code en Javascript
 
-### Un exemple de code commenté ❌ / ✔️
+### Un exemple de code commenté ✔️
 
 ```javascript
-(e) => mc2;
+// voici un commentaire
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
+[lien github projet MALTY](https://github.com/aimach/MALTY)
 
-Description :
+Description : Malty est une petite application web qui présente l'ensemble des produits de la brasserie Brewdog. 
+Ce projet a été développé en JS. 
 
-### J'ai utilisé ce langage en production ❌ / ✔️
+### J'ai utilisé ce langage en production ✔️
 
-[lien du projet](...)
+[projet MALTY](https://malty-brewdog.netlify.app/)
 
-Description :
+Description : Malty est une petite application web qui présente l'ensemble des produits de la brasserie Brewdog. 
+Ce projet a été développé en JS et déployé sur Netlify.
 
-### J'ai utilisé ce langage en environement professionnel ❌ / ✔️
+### J'ai utilisé ce langage en environement professionnel ✔️
 
-Description :
+Description : j'utilise ce langage quotidiennement car j'enseigne React, Node et Express.
 
 ## 🌐 J'utilise des ressources
 
